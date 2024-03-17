@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "map": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp"
+    }
+}
